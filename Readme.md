@@ -16,7 +16,7 @@ This is my first ROS Project, here the robot should navigate to all the given go
 
 First we have to launch empty world from turtlebot_gazebo package. To load the predesigned test arena we have to run the following command.
 
-`rosrun gazebo_ros spawn_model -file ~/catkin_ws/src/mb-192233_tier3_miniprj/mini_project_master/model.sdf -sdf -x 2 -y 1 -model mini_project.` 
+`rosrun gazebo_ros spawn_model -file ~/catkin_ws/src/sh_192094_miniprj/mini_project_master/model.sdf -sdf -x 2 -y 1 -model mini_project.` 
 
 Gazebo simulation should now look like the screenshot below.
 
